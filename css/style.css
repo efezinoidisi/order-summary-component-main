@@ -43,6 +43,9 @@ main {
     align-items: center;
     justify-content: space-between;
     margin: 30px 0;
+    background-color: hsl(225, 100%, 96%);
+    padding: 20px;
+    border-radius: 20px;
 }
 
 
