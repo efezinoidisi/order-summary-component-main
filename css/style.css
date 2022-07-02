@@ -15,6 +15,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url('../images/pattern-background-mobile.svg');
+    background-repeat: no-repeat;
 }
 
 main {
@@ -22,7 +24,7 @@ main {
     border-radius: 10px;
     background-color: hsl(225, 100%, 98%);
     border-radius: 15px;
-
+    box-shadow: 0 10px hsl(225, 100%, 92%);
 }
 
 .main {
@@ -103,6 +105,7 @@ button {
     font-size: 1rem;
     font-weight: 700;
     margin-bottom: 25px;
+    box-shadow: 0 10px hsl(225, 100%, 94%);
 }
 
 button:hover,
@@ -130,6 +133,11 @@ button:focus-visible {
 
 
 @media screen and (min-width:600px) and (max-width:900px) {
+    body {
+        background-image: url('../images/pattern-background-desktop.svg');
+        background-repeat: no-repeat;
+    }
+
     main {
         max-width: 50%;
 
@@ -137,6 +145,11 @@ button:focus-visible {
 }
 
 @media screen and (min-width:900px) {
+    body {
+        background-image: url('../images/pattern-background-desktop.svg');
+
+    }
+
     main {
         max-width: 30%;
     }
