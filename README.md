@@ -21,10 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
+![127 0 0 1_5501_index html (1)](https://user-images.githubusercontent.com/105175740/177015447-4f2e6f68-9c68-496a-a04c-43142fc75b77.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/efezinoidisi/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://efezinoidisi.github.io/order-summary-component-main/)
+- Solution URL: [solution URL](https://github.com/efezinoidisi/order-summary-component-main)
+- Live Site URL: [live site URL](https://efezinoidisi.github.io/order-summary-component-main/)
 
 ### Built with
 
